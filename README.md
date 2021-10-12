@@ -1,4 +1,4 @@
-# b2evo_pdf - A b2evolution pdf converter 
+# b2evo_pdf - A pdf converter for b2evolution : Suggest your reader to download your posts/articles in PDF
 
 This "skin" convert a post in a PDF with MPDF : https://mpdf.github.io/
 
