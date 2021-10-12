@@ -1,0 +1,13 @@
+{
+    "name": "manuelh78/b2evo_pdf",
+    "description": "b2evo post to pdf converter",
+    "authors": [
+        {
+            "name": "manuelh78",
+            "email": "manuelh78@n.fr"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    }
+}
